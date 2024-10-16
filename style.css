@@ -1,14 +1,26 @@
 body{
     font-family: arial, sans-serif;
     background-color: azure;
-    color: bisque;
+    color: rgb(255, 0, 0);
     margin: 0;
     padding: 20px;
 }
 
 h2{
     text-align: center;
-    color: brown;
-    font-size:3;
+    color:black;
+    font-size: 30px;
     margin-bottom: 20px;
+}
+
+img {
+    width: 230px;
+    height: 150px;
+  }
+
+p{
+    color: black;
+}
+article>a{
+    font-size: 1em;
 }
